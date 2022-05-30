@@ -26,3 +26,7 @@ TURN
 ### 시그널링
 WebRTC에서 서로 다른 네트워크에 있는 2개의 디바이스들을 서로 연결하기 위해서는, 각 디바이스들의 위치를 발견하는 방법과 미디어 포맷 협의가 필요합니다. 이 프로세스를 시그널링 signaling이라 부르고 상호 간에 동의된 서버에 연결합니다. 
 이 서버는 각 디바이스들이 negotiation(협상) 메시지들을 교환할 수 있도록 중개합니다.
+
+## WebRTC 통신의 서버종류
+>https://millo-l.github.io/WebRTC-%EA%B5%AC%ED%98%84-%EB%B0%A9%EC%8B%9D-Mesh-SFU-MCU/
+>https://6987.tistory.com/entry/WebRTC-%EB%AF%B8%EB%94%94%EC%96%B4-%EC%97%B0%EA%B2%B0-%EB%B0%A9%EC%8B%9D-MCU-SFU-P2P
