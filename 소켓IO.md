@@ -26,6 +26,9 @@ HTTP연결은 자동으로 끊어집니다. 데이터의 송신과 수신에 각
 ```
 socket.emit('내맘대로 이벤트이름', callback => { ...code })
 ```
+
+## 기존 HTML에서의 실시간 양방향 통신
+
 ## 트러블 슈팅과 해결
 https://velog.io/@fnjels09/%ED%95%AD%ED%95%B4-59%EC%9D%BC%EC%B0%A8-512
 
